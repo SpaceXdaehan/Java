@@ -2,7 +2,7 @@ package edu.java.conditional05;
 
 import java.util.Random; // java.util 패키지의 Random 타입을 (변수 선언에서) 사용.
 
-public class ConditionalMain05 {
+public class ConditionalMain05 { 
 
     public static void main(String[] args) {
         // 난수(random number) 만드는 방법:
