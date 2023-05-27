@@ -8,7 +8,7 @@ public class ConditionalMain01 {
         int number = -10;
         if (number > 0) {
             // 조건식이 참일 때 실행할 문장(들).
-            System.out.println("양수");
+            System.out.println("양수"); 
         }
         
         if (number % 2 == 0) {
