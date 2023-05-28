@@ -45,7 +45,7 @@ public class ConditionalMain03 {
             System.out.println("학점:D");
         } else {
             System.out.println("학점:F");
-        }
+        } 
         
     }
 
