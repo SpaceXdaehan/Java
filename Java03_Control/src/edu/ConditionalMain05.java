@@ -38,7 +38,7 @@ public class ConditionalMain05 {
         // 삼항 연산자
         int diff2 = (x > y) ? (x - y) : (y - x);
         System.out.println("diff2 = " + diff2);
-        
+         
         // 10 이하의 정수 난수를 만들어서 변수 number에 저장.
         // String 타입 변수 evenOrOdd에 number가 짝수이면 "짝수", 홀수이면 "홀수" 문자열을 저장.
         int number = random.nextInt(11);
