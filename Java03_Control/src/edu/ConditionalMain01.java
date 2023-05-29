@@ -4,7 +4,7 @@ public class ConditionalMain01 {
 
     public static void main(String[] args) {
         // 조건문(conditional statement)
-        
+         
         int number = -10;
         if (number > 0) {
             // 조건식이 참일 때 실행할 문장(들).
