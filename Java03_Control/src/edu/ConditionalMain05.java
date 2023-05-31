@@ -10,7 +10,7 @@ public class ConditionalMain05 {
         int x = random.nextInt(5); // 0 이상 5 미만의 정수 난수를 만듦.
         System.out.println("x = " + x);
         
-        int y = random.nextInt(5);
+        int y = random.nextInt(5); 
         System.out.println("y = " + y);
         
         // int 타입의 bigger 변수에 x와 y 중에서 더 큰 수를 저장하고 출력.
