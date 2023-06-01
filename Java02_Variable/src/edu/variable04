@@ -44,4 +44,5 @@ public class VariableMain04 {
         System.out.println("%: " + result);
     }
 
+
 }
