@@ -17,7 +17,7 @@ public class ConditionalMain04 {
         } else {
             System.out.println("정상");
         }
-        
+         
         boolean running = true;
         if (running) {
             System.out.println("달리는 중...");
