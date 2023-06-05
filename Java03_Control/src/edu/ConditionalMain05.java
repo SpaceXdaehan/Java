@@ -12,7 +12,7 @@ public class ConditionalMain05 {
         
         int y = random.nextInt(5); 
         System.out.println("y = " + y);
-        
+         
         // int 타입의 bigger 변수에 x와 y 중에서 더 큰 수를 저장하고 출력. 
         int bigger = 0;
         if (x > y) {
