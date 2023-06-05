@@ -9,7 +9,7 @@ public class ConditionalMain05 {
         Random random = new Random(); // Random 타입의 변수를 선언하고 초기화.
         int x = random.nextInt(5); // 0 이상 5 미만의 정수 난수를 만듦.
         System.out.println("x = " + x);
-        
+         
         int y = random.nextInt(5); 
         System.out.println("y = " + y);
          
