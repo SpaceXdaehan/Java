@@ -9,7 +9,7 @@ public class ConditionalMain01 {
         if (number > 0) {
             // 조건식이 참일 때 실행할 문장(들).
             System.out.println("양수"); 
-        }
+        } 
         
         if (number % 2 == 0) {
             // 짝수일 때 실행할 문장
