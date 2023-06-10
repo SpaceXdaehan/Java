@@ -14,7 +14,7 @@ public class ConditionalMain02 {
             } else {
                 System.out.println("영");
             }
-        }
+        } 
 
     }
 
