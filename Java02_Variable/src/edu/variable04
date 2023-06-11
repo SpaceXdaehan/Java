@@ -43,6 +43,6 @@ public class VariableMain04 {
         result = x % y; // (정수) % (정수) = 나눈 나머지
         System.out.println("%: " + result);
     }
-
+   
 
 }
