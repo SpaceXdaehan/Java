@@ -33,7 +33,7 @@ public class ConditionalMain05 {
         } else {
             diff = y - x;
         }
-        System.out.println("diff = " + diff);
+        System.out.println("diff = " + diff); 
         
         // 삼항 연산자
         int diff2 = (x > y) ? (x - y) : (y - x);
