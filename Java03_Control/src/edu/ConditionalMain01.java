@@ -1,5 +1,5 @@
 package edu.java.conditional01;
-
+ 
 public class ConditionalMain01 {
 
     public static void main(String[] args) {
