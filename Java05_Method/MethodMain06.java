@@ -46,7 +46,5 @@ public class MethodMain06 {
 		return result;
 	}
 	
-	
-	
-	
+
 }
